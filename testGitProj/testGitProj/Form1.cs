@@ -23,5 +23,12 @@ namespace testGitProj
         {
             MessageBox.Show("Form load..");
         }
+
+
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //test class 생성
+        }
     }
 }
