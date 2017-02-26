@@ -21,7 +21,7 @@ namespace testGitProj
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("Form load..");
+            //MessageBox.Show("Form load..");
         }
 
 
@@ -29,6 +29,8 @@ namespace testGitProj
         private void button1_Click(object sender, EventArgs e)
         {
             //test class 생성
+            new Form2(this).Show();
+            this.Hide();
         }
     }
 }
