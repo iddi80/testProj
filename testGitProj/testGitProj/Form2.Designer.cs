@@ -36,9 +36,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(12, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(44, 12);
+            this.label1.Size = new System.Drawing.Size(96, 12);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Form 2";
+            this.label1.Text = "Form 2 update 1";
             // 
             // Form2
             // 
